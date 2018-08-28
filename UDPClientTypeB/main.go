@@ -112,9 +112,4 @@ func main() {
 	run()
 }
 
-//Workflow:
-//first run the server and choose in and out port.
-//then connect to type A or B client.
-//Choose port for both client types and for client B, type CONNECT afterwards.
-//If you wish to run multiply B Type clients I've attached in the B type Project above the main function.
-//That's the way that I've tested it since I haven't got enough time to create a unit test
+
